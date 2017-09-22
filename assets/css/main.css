@@ -28,6 +28,10 @@
 		text-decoration: underline;
 	}
 
+	.class-link{
+		color: #000;
+	}
+
 
 /*!
  * "Fork me on GitHub" CSS ribbon v0.2.0 | MIT License
@@ -1849,14 +1853,14 @@
 		}
 
 		.image.CSELogo {
-			width: 200px;
-			height: 50px;
-			background: #f00;
+			width: 48px;
+			height: 48px;
+			background: #222729;
 		}
 
 			.image.CSELogo img {
-				width: 200px;
-				height: 50px;
+				width: 48px;
+				height: 48px;
 
 			}
 
@@ -2188,8 +2192,8 @@
 		#logo h1 {
 			position: relative;
 			color: #fff;
-			font-weight: 600;
-			font-size: 1em;
+			font-weight: 800;
+			font-size: 1.9em;
 			line-height: 1em;
 		}
 
@@ -2421,7 +2425,7 @@
 
 			#logo .image {
 				position: relative;
-				margin: 0 0 0.5em 0;
+				margin: 0 1em 0.5em 0;
 			}
 
 			#nav ul li a {
@@ -2453,7 +2457,6 @@
 			}
 
 	}
-
 /* Narrower */
 
 	#headerToggle {
