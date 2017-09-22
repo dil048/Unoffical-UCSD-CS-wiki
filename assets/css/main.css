@@ -1850,13 +1850,14 @@
 
 		.image.CSELogo {
 			width: 200px;
-			height: 100px;
+			height: 50px;
 			background: #f00;
 		}
 
 			.image.CSELogo img {
-				width: 250px;
-				height: 220px;
+				width: 200px;
+				height: 50px;
+
 			}
 
 		.image.fit {
@@ -2246,7 +2247,7 @@
 			}
 
 				#nav ul li a.active span:before {
-					color: #e27689;
+					color: #006A96;
 				}
 
 /* Footer */
